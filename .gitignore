@@ -1,0 +1,10 @@
+/web/bundles/
+/app/bootstrap*
+/app/cache/*
+/app/logs/*
+/.git/
+/vendor/
+/app/config/parameters.ini
+/.settings/
+.buildpath
+.project
